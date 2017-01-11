@@ -1,0 +1,12 @@
+__init__.py
+*.pyc
+.*.swp
+.#*
+#*#
+*~
+*DS_Store
+*cc.so
+*cc.d
+*.pcm
+LSFJOB*/
+
